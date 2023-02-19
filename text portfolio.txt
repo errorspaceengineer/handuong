@@ -1,8 +1,7 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://linkedin.com/in/han-ngoc-diem-duong
+https://github.com/errorspaceengineer
 
 home__description
 High level experience in web design and development knowledge, producing quality work.
